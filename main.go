@@ -1,7 +1,7 @@
 package main
 
 import (
-	"flora-kit/flora"
+	"github.com/zhigang1992/flora-kit/flora"
 	"flag"
 )
 
